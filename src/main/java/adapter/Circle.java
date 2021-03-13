@@ -2,7 +2,7 @@ package adapter;
 
 public class Circle {
 
-    double r;
+    double r; // jakas zmiana
 
     public Circle(double r) {
         this.r = r;
