@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         ShapeManager shapeManager = new ShapeManager();
-
+        System.out.println("fasdjfbaksjdfkjsdhf");
         Shape square = new Square(2);
         Shape triangle = new Triangle(6,4,8);
         Circle circle = new Circle(5);
